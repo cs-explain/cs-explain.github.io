@@ -1,0 +1,15 @@
+#+TITLE: Blog
+#+DESCRIPTION: Starting Blog
+#+DATE:
+
+#+STARTUP: logdone
+
+#+URL:  https://cs-explain.github.io./
+
+* DONE Test post
+CLOSED: [2020-05-29 Fri 22:34]
+:PROPERTIES:
+:tags: test
+:END:
+
+This is a test blog post
