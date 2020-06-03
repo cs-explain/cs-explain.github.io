@@ -1,0 +1,14 @@
+#+TITLE: Index
+
+#+DESCRIPTION: Starting Blog
+#+DATE:
+
+#+STARTUP: logdone
+
+#+URL:  https://cs-explain.github.io./
+* TODO Try and connect pages
+:PROPERTIES:
+:tags: link
+:END:
+
+This links to the test [[file:blog.html][blog]]
